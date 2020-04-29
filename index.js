@@ -4,7 +4,7 @@ function fetchBooks() {
   .then(function(json) {renderBooks(json)});
 
 }
-
+//use fetch and call manipulation function inside the asynchronous parameters instead of console.log the json
 function renderBooks(json) {
   const main = document.querySelector('main')
   json.forEach(book => {
