@@ -73,8 +73,7 @@ information. For now we'll focus on just getting different kinds of information
 out of the API's `/books` path.
 
 Play around with the logged response. See if you can design a strategy to take
-the logged object to find the following answers. To pass the lab you don't have
-to have to encode these strategies.
+the logged object to find the following answers. To pass the lab you don't have to encode these strategies.
 
 1. The 5th book in the series
 2. The 1031st character in the series
